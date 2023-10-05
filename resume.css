@@ -1,0 +1,20 @@
+
+.resume {font: optional;text-align: center;
+background-color: azure;
+padding: 20px;
+margin: 20px;}
+body {
+    background-color: rgb(227, 206, 206);
+    color: rgb(126, 62, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: ridge;
+    border-color: black;
+}
+h1{
+    font-size: 30;
+    color: red;
+}
+.name{
+    font-size: 30;
+background-color: rgb(238, 242, 242);
+}
